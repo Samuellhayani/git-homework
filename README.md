@@ -1,8 +1,6 @@
-# copier dans le fichier README.md
-# les lignes produites par ce code
-# EXBRAYAT
+# copier dans le fichier README.md LHAYANI
 # les lignes produites par ce code HAYOT
-
+# EXBRAYAT
 # mettez ici le nombre de personnes dans votre groupe
 
 how_many_people = 4
