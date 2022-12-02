@@ -1,6 +1,8 @@
 # copier dans le fichier README.md
 # les lignes produites par ce code
 # EXBRAYAT
+# les lignes produites par ce code HAYOT
+
 # mettez ici le nombre de personnes dans votre groupe
 
 how_many_people = 4
