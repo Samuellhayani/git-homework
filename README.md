@@ -1,5 +1,5 @@
 # copier dans le fichier README.md LHAYANI
-# les lignes produites par ce code HAYOT
+# les lignes produites par ce code HAYOT louishayot
 # EXBRAYAT
 # mettez ici le nombre de personnes dans votre groupe
 
